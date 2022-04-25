@@ -4,7 +4,7 @@ Hi 👋 My name is Satvik Verma
 Student
 -------
 
-I am student at International Institute of Information Technology, Bangalore frmo 2020.
+I am student at International Institute of Information Technology, Bangalore from 2020.
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [Satvik.Verma@iiitb.ac.in](mailto:Satvik.Verma@iiitb.ac.in)
